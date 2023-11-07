@@ -22,13 +22,14 @@ It shows the distance of a random variable from its mean. It is calcualted as <b
 
 ### Experiment :
 
+
+<img height=30% width=80% src="https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png">
+
+### Program :
 ```
 Developed By: SATHISH R
 Register No: 212222230138
 ```
-<img height=30% width=80% src="https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png">
-
-### Program :
 ```Python
 import numpy as np
 L=[int(i) for i in input().split()]
